@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="bannier.png" alt="Bienvenue sur mon profil GitHub">
-</h1>
 
 <p align="center">
   <img src="bannier.png" alt="Bienvenue sur mon profil GitHub" />
