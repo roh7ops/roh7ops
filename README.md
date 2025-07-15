@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Bienvenue sur mon profil GitHub" />
+  <img src="banner" alt="Bienvenue sur mon profil GitHub" />
 </p>
 
 <h1 align="center">👋 Bonjour, moi c'est <span style="color:#00C853;">ODILON</span></h1>
