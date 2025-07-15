@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Bienvenue sur mon profil GitHub" />
+</p>
+
 <h1 align="center">👋 Bonjour, moi c'est <span style="color:#00C853;">ODILON</span></h1>
 
 <h3 align="center">Ou comme on le dit chez nous <em>"Manao ahoana!"</em></h3>
@@ -9,7 +13,7 @@ Je travaille constamment pour améliorer mes compétences et suis toujours curie
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 - <span style="color:#FF9100;"><strong>Langages de programmation</strong></span> :  
   <code>Java</code>, <code>JavaScript</code>, <code>Python</code>, <code>Go</code>, <code>Bash</code>
@@ -27,7 +31,7 @@ Je travaille constamment pour améliorer mes compétences et suis toujours curie
 
 ---
 
-## 🚀 Projets récents
+##  Projets récents
 
 1. <strong style="color:#00ACC1;">Gestion d'hôtel en Java J2EE</strong> :  
    Développement d'une application de bureau sans framework pour la gestion d'un hôtel, en suivant l'architecture MVC.
@@ -37,7 +41,7 @@ Je travaille constamment pour améliorer mes compétences et suis toujours curie
 
 ---
 
-## 🎯 Objectifs actuels
+##  Objectifs actuels
 
 - Devenir <strong style="color:#00C853;">Ingénieur DevOps</strong>  
 - Explorer le domaine de la <strong style="color:#D84315;">Red Team</strong>  
@@ -45,7 +49,7 @@ Je travaille constamment pour améliorer mes compétences et suis toujours curie
 
 ---
 
-## 📫 Contactez-moi
+##  Contactez-moi
 
 - 📎 <strong>LinkedIn</strong> : [Fitiavana Herimanantsoa](https://www.linkedin.com/in/fitiavana-herimanantsoa)  
 - ✉️ <strong>Email</strong> : [herimanantsoa.odilon@gmail.com](mailto:herimanantsoa.odilon@gmail.com)  
