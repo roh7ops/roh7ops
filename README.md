@@ -16,6 +16,10 @@ Je travaille constamment pour améliorer mes compétences et suis toujours curie
 
 ##  Compétences techniques
 
+<table>
+  <tr>
+    <td>
+
 - <span style="color:#FF9100;"><strong>Langages de programmation</strong></span> :  
   <code>Java</code>, <code>JavaScript</code>, <code>Python</code>, <code>Go</code>, <code>Bash</code>
 
@@ -29,7 +33,12 @@ Je travaille constamment pour améliorer mes compétences et suis toujours curie
 
 - <strong>Environnement de développement</strong> :  
   <code>Linux</code>, <code>Windows</code>
-
+   </td>
+   <td>
+     <img src="images/devops.png" alt="Tech stack illustration" width="250"/>
+   </td>
+  </tr>
+</table>
 ---
 
 ##  Projets récents
